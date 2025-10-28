@@ -1,0 +1,16 @@
+Last Updated: 2025-10-25 14:29:01
+Reminders:
+
+URGENT:
+Restock aloo (when stock < 5kg)
+Restock milk (when stock < 2kg)
+Restock polythene (when stock < 2kg)
+
+DAILY:
+(Add daily reminders here)
+
+WEEKLY:
+(Add weekly reminders here)
+
+COMPLETED:
+(Completed reminders will be moved here)

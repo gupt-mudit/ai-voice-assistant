@@ -1,0 +1,13 @@
+# LiveKit Agents Core
+livekit-agents[silero,turn-detector]~=1.2
+
+# LiveKit Plugins
+livekit-plugins-deepgram~=0.2
+livekit-plugins-google~=0.2
+livekit-plugins-cartesia~=1.2
+
+# Environment & Tools
+python-dotenv
+langchain
+langchain-google-genai
+pydantic
